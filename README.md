@@ -52,9 +52,9 @@
   - Mini Board System (예정)
     
 **Study Repositories**
-  - Python Study
-  - Database Study
-  - Frontend Study
+   - [Python Study](https://github.com/DDORINY/study-PythonStudy26)
+   - [Database Study](https://github.com/DDORINY/study-DataBase26)
+   - [Frontend Study](https://github.com/DDORINY/study-Front-End-Study26)
     
 **Currently Building**
   - Flask 기반 웹 LMS 확장
