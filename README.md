@@ -11,7 +11,7 @@
   - Flask 웹 서비스 개발
   - MySQL DB 모델링 및 CRUD
   - Service Layer 구조 설계
-  - LMS 시스템 팀 프로젝트 진행```
+  - LMS 시스템 팀 프로젝트 진행
     
 **Tech Stack**
 
