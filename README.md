@@ -47,7 +47,7 @@
   프로젝트 링크 (추가 예정)
   ```
 **Mini Projects (Building)**
-  - TODO Flask App (예정)
+  - [TODO Flask App](https://github.com/DDORINY/MiniProject-ToDoList)
   - Auth API Server (예정)
   - Mini Board System (예정)
     
