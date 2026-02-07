@@ -95,16 +95,19 @@ Python + MySQL 기반 학습관리 시스템(LMS) 팀 프로젝트입니다.
 - 페이징 / 검색 기능 예정
   
 수정 화면용 단건 조회 API 구현
+
 ---
-주요 기능
+**주요 기능**
   
   - [TODO Flask App](https://github.com/DDORINY/MiniProject-ToDoList)
   - Auth API Server (예정)
   - Mini Board System (예정)
 
 ---
-##Study Repositories##    
-**Study Repositories**
+
+## Study Repositories
+
+**Python Study**
 - [Python Study](https://github.com/DDORINY/study-PythonStudy26)
     - Python 문법
     - OOP 설계
