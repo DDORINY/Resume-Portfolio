@@ -66,6 +66,29 @@ Preview
 
 ---
 
+## LMS Flask Mini Project (Personal)
+
+Service Layer 구조를 유지하면서  
+LMS 기능을 Flask 웹 애플리케이션으로 재구성한 개인 확장 프로젝트입니다.
+
+CLI 기반 구조 → Web 구조로 전환하며  
+Blueprint 라우트 분리 + Repository 계층 + 템플릿 UI 연결을 실습했습니다.
+
+**Key Points**
+
+- Flask Blueprint 라우트 분리
+- Service / Repository 계층 구조
+- 회원 기능 웹화
+- 게시판 + 파일 업로드
+- Session 기반 인증
+- DB 모듈 분리
+- 구조 재사용 중심 설계
+
+🔗 Repository  
+https://github.com/DDORINY/MyMiniProjects_lms_flask
+
+---
+
 # Frontend UI Portfolio
 
 Bootstrap 기반 UI Template + Design System 구조 실습 저장소
